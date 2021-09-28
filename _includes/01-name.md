@@ -1,1 +1,5 @@
-Replace this with your name, and include a header.
+# SNP
+## S Naveen Prasanth
+### AME.,B.Sc(A.M.S).,DARS.,
+
+:)
