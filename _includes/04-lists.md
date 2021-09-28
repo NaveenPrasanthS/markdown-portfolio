@@ -1,5 +1,5 @@
 ## My Favourite Cricketers
-  *MS Dhoni
-    *Suresh Raina
-      *Duplesis
-        *Bravo
+  * MS Dhoni
+  * Suresh Raina
+  * Duplesis
+  * Bravo
